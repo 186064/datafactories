@@ -1,0 +1,9 @@
+{
+	"name": "ustsa009",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d02cbea-3523-48ab-84a2-1c67846f33f4",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
